@@ -1,0 +1,46 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "James",
+      "salary": 2000,
+      "active": true,
+      "role": "developer"
+    },
+    {
+      "name": "Mike",
+      "salary": 1000,
+      "active": true,
+      "role": "developer",
+      "id": 2
+    },
+    {
+      "name": "Nick",
+      "salary": 3000,
+      "active": true,
+      "role": "manager",
+      "id": 3
+    },
+    {
+      "name": "Leon",
+      "salary": 1500,
+      "active": false,
+      "role": "driver",
+      "id": 4
+    },
+    {
+      "name": "Paul",
+      "role": "Team lead",
+      "salary": 3300,
+      "active": true,
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "employeeid": 1,
+      "message": "hello!"
+    }
+  ]
+}
